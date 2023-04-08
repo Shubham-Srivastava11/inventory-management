@@ -1,0 +1,16 @@
+.card-wrapper{
+    display: flex;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.desc{
+    display: grid;
+    margin-left: 2rem;
+}
+
+.price-display{
+    position: relative;
+    right: 0;
+}

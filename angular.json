@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "inventory-management"
+    }
+  },
+  "defaultProject": "inventory-management",
+  "cli": {
+    "analytics": "49f089f9-3f74-48f6-8632-23c76e5e35bb"
+  }
 }
