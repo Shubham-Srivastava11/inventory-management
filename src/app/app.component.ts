@@ -16,7 +16,7 @@ export class AppComponent {
       new Product(
       'MyHat',
       'Black Hat',
-      '/assets/images/products/hat.png',
+      'assets/images/products/hat.jpg',
       ['Men', 'Hat'],
       499,
     ),
